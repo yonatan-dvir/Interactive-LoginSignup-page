@@ -9,7 +9,7 @@
   font-style: normal;
   flex-direction: column;
   align-items: center;
-  background-color:rgb(126, 30, 30);
+  background: linear-gradient(rgb(126, 30, 30),rgb(45, 14, 14));
 }
 
 .heading {
