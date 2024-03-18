@@ -6,7 +6,7 @@ import LoginSignup from './components/LoginSignup/LoginSignup';
 const App: React.FC = () => {
   return (
   <div className='App'>
-    <span className='heading'>hello</span>
+    <span className='heading'>Welcome to After Play!</span>
     <LoginSignup/>
   </div>
   )
